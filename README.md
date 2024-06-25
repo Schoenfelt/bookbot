@@ -1,3 +1,3 @@
 # bookbot
 Boot.dev Bookbot Course
-BootBot is my first project!
+BookBot is my first project!
